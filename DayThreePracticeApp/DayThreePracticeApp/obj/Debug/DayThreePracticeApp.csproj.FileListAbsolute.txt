@@ -1,0 +1,10 @@
+D:\Dotnet Practice\DayThreePracticeApp\DayThreePracticeApp\bin\Debug\DayThreePracticeApp.exe.config
+D:\Dotnet Practice\DayThreePracticeApp\DayThreePracticeApp\bin\Debug\DayThreePracticeApp.exe
+D:\Dotnet Practice\DayThreePracticeApp\DayThreePracticeApp\bin\Debug\DayThreePracticeApp.pdb
+D:\Dotnet Practice\DayThreePracticeApp\DayThreePracticeApp\obj\Debug\DayThreePracticeApp.csprojAssemblyReference.cache
+D:\Dotnet Practice\DayThreePracticeApp\DayThreePracticeApp\obj\Debug\DayThreePracticeApp.Form1.resources
+D:\Dotnet Practice\DayThreePracticeApp\DayThreePracticeApp\obj\Debug\DayThreePracticeApp.Properties.Resources.resources
+D:\Dotnet Practice\DayThreePracticeApp\DayThreePracticeApp\obj\Debug\DayThreePracticeApp.csproj.GenerateResource.cache
+D:\Dotnet Practice\DayThreePracticeApp\DayThreePracticeApp\obj\Debug\DayThreePracticeApp.csproj.CoreCompileInputs.cache
+D:\Dotnet Practice\DayThreePracticeApp\DayThreePracticeApp\obj\Debug\DayThreePracticeApp.exe
+D:\Dotnet Practice\DayThreePracticeApp\DayThreePracticeApp\obj\Debug\DayThreePracticeApp.pdb
