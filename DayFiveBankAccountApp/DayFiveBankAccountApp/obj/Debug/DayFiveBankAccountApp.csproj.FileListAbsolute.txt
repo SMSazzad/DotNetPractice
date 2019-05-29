@@ -1,0 +1,10 @@
+D:\Dotnet Practice\DayFiveBankAccountApp\DayFiveBankAccountApp\bin\Debug\DayFiveBankAccountApp.exe.config
+D:\Dotnet Practice\DayFiveBankAccountApp\DayFiveBankAccountApp\bin\Debug\DayFiveBankAccountApp.exe
+D:\Dotnet Practice\DayFiveBankAccountApp\DayFiveBankAccountApp\bin\Debug\DayFiveBankAccountApp.pdb
+D:\Dotnet Practice\DayFiveBankAccountApp\DayFiveBankAccountApp\obj\Debug\DayFiveBankAccountApp.csprojAssemblyReference.cache
+D:\Dotnet Practice\DayFiveBankAccountApp\DayFiveBankAccountApp\obj\Debug\DayFiveBankAccountApp.Form1.resources
+D:\Dotnet Practice\DayFiveBankAccountApp\DayFiveBankAccountApp\obj\Debug\DayFiveBankAccountApp.Properties.Resources.resources
+D:\Dotnet Practice\DayFiveBankAccountApp\DayFiveBankAccountApp\obj\Debug\DayFiveBankAccountApp.csproj.GenerateResource.cache
+D:\Dotnet Practice\DayFiveBankAccountApp\DayFiveBankAccountApp\obj\Debug\DayFiveBankAccountApp.csproj.CoreCompileInputs.cache
+D:\Dotnet Practice\DayFiveBankAccountApp\DayFiveBankAccountApp\obj\Debug\DayFiveBankAccountApp.exe
+D:\Dotnet Practice\DayFiveBankAccountApp\DayFiveBankAccountApp\obj\Debug\DayFiveBankAccountApp.pdb
