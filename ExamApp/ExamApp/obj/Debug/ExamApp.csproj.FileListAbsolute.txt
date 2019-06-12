@@ -1,0 +1,20 @@
+D:\ExamApp\ExamApp\bin\Debug\ExamApp.exe.config
+D:\ExamApp\ExamApp\bin\Debug\ExamApp.exe
+D:\ExamApp\ExamApp\bin\Debug\ExamApp.pdb
+D:\ExamApp\ExamApp\obj\Debug\ExamApp.csprojAssemblyReference.cache
+D:\ExamApp\ExamApp\obj\Debug\ExamApp.Form1.resources
+D:\ExamApp\ExamApp\obj\Debug\ExamApp.Properties.Resources.resources
+D:\ExamApp\ExamApp\obj\Debug\ExamApp.csproj.GenerateResource.cache
+D:\ExamApp\ExamApp\obj\Debug\ExamApp.csproj.CoreCompileInputs.cache
+D:\ExamApp\ExamApp\obj\Debug\ExamApp.exe
+D:\ExamApp\ExamApp\obj\Debug\ExamApp.pdb
+D:\Dotnet Practice\ExamApp\ExamApp\bin\Debug\ExamApp.exe.config
+D:\Dotnet Practice\ExamApp\ExamApp\bin\Debug\ExamApp.exe
+D:\Dotnet Practice\ExamApp\ExamApp\bin\Debug\ExamApp.pdb
+D:\Dotnet Practice\ExamApp\ExamApp\obj\Debug\ExamApp.csprojAssemblyReference.cache
+D:\Dotnet Practice\ExamApp\ExamApp\obj\Debug\ExamApp.Form1.resources
+D:\Dotnet Practice\ExamApp\ExamApp\obj\Debug\ExamApp.Properties.Resources.resources
+D:\Dotnet Practice\ExamApp\ExamApp\obj\Debug\ExamApp.csproj.GenerateResource.cache
+D:\Dotnet Practice\ExamApp\ExamApp\obj\Debug\ExamApp.csproj.CoreCompileInputs.cache
+D:\Dotnet Practice\ExamApp\ExamApp\obj\Debug\ExamApp.exe
+D:\Dotnet Practice\ExamApp\ExamApp\obj\Debug\ExamApp.pdb
